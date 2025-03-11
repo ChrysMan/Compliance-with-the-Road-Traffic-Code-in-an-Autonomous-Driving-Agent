@@ -8,4 +8,4 @@ This is a project on the course Autonomous Agents of TUC that enhances an existi
 2. Open the world "city.wbt"
 3. Compile the four controllers
 4. Run and observe the results
-5. Open index.html for a presentation
+5. Open index.html for a visual presentation
